@@ -18,7 +18,7 @@ Scripts/
 ├── ResNet50_EuroSAT.py                 # ResNet50 base model training
 ├── RegNet-Y-8GF_EuroSAT.py             # RegNet-Y-8GF base model training
 ├── EfficientNetV2-S_EuroSAT.py         # EfficientNetV2-S base model training
-└── Ensemble_Model_EuroSAT.py           # Ensemble model integration and training
+└── Ensemble_Model_EuroSAT.py           # Ensemble model training
 
 Terminal_Logs/
 ├── ResNet50 Terminal Logs.txt          # ResNet50 training outputs
