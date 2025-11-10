@@ -1,7 +1,6 @@
 # Ensemble Learning for Land Cover Classification on EuroSAT
 
-This repository contains training scripts and experimental logs from:
-
+This repository contains training scripts and experimental logs from the research paper:
 > **"Ensemble Learning for Land Cover Classification: Advancing State-of-the-Art Performance on EuroSAT"**  
 > *Accepted to International Joint Conference on Neural Networks (IJCNN) 2025*  
 > Raymond Lee & Ethan Knapp
@@ -39,7 +38,7 @@ As of May 2025, our ensemble model surpasses all previous benchmarks on the Euro
 
 ## Dataset
 
-The EuroSAT dataset is available at: https://www.kaggle.com/datasets/apollo2506/eurosat-dataset 
+The EuroSAT dataset is available at: https://github.com/phelber/EuroSAT
 
 ## Citation
 
