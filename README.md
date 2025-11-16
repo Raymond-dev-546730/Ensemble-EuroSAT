@@ -44,10 +44,14 @@ The EuroSAT dataset is available at: https://github.com/phelber/EuroSAT
 
 If you use this code or reference our work, please cite:
 ```bibtex
-@inproceedings{lee2025ensemble,
-  title={Ensemble Learning for Land Cover Classification: Advancing State-of-the-Art Performance on EuroSAT},
+@INPROCEEDINGS{11227543,
   author={Lee, Raymond and Knapp, Ethan},
-  booktitle={International Joint Conference on Neural Networks (IJCNN)},
-  year={2025}
-}
+  booktitle={2025 International Joint Conference on Neural Networks (IJCNN)}, 
+  title={Ensemble Learning for Land Cover Classification: Advancing State-of-the-Art Performance on EuroSAT}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Technological innovation;Accuracy;Neural networks;Urban planning;Land surface;Benchmark testing;Ensemble learning;Convolutional neural networks;Remote sensing;Image classification;EuroSAT;land cover classification;ensemble learning;convolutional neural networks;remote sensing},
+  doi={10.1109/IJCNN64981.2025.11227543}}
 ```
