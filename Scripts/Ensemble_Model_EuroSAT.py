@@ -444,7 +444,7 @@ if __name__ == '__main__':
     # Set style
     plt.style.use('bmh')
 
-    # Plot Micro-Average ROC curve (DIAGRAM 1)
+    # Plot Micro-Average ROC curve 
     plt.figure(figsize=(10, 8))
     plt.plot(fpr["micro"], tpr["micro"],
             label='Micro-Average ROC curve',
@@ -467,7 +467,7 @@ if __name__ == '__main__':
                 format='png', dpi=300, bbox_inches='tight')
     plt.close()
 
-    # Plot Macro-Average ROC curve (DIAGRAM 2)
+    # Plot Macro-Average ROC curve 
     plt.figure(figsize=(10, 8))
     plt.plot(fpr["macro"], tpr["macro"],
             label='Macro-Average ROC curve',
@@ -487,7 +487,7 @@ if __name__ == '__main__':
     plt.close()
     
     
-    # Create and plot confusion matrix (DIAGRAM 3)
+    # Create and plot confusion matrix 
     cm = confusion_matrix(best_fold_labels, best_fold_predictions)
     plt.figure(figsize=(10, 8))
 
@@ -509,7 +509,7 @@ if __name__ == '__main__':
     
 
 
-    # Using best fold model and predictions (DIAGRAM 4)
+    # Using best fold model and predictions 
     class_report = classification_report(best_fold_labels, best_fold_predictions, 
                                       target_names=full_dataset.classes,
                                       output_dict=True)
