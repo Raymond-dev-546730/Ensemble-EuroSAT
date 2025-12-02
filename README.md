@@ -34,7 +34,7 @@ Terminal_Logs/
 - **Recall:** 99.87±0.02%
 - **ROC AUC:** 99.99±0.00%
 
-As of May 2025, our ensemble model surpasses all previous benchmarks on the EuroSAT dataset, including DeepEnsembling (99.41%), IMP+MTP (99.24%), and µ2Net+ (99.22%).
+As of November 2025, our ensemble model surpasses all previous benchmarks on the EuroSAT dataset, including DeepEnsembling (99.41%), IMP+MTP (99.24%), and µ2Net+ (99.22%).
 
 ## Dataset
 
