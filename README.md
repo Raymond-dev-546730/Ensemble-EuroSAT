@@ -2,7 +2,7 @@
 
 This repository contains training scripts and experimental logs from the research paper:
 > **"Ensemble Learning for Land Cover Classification: Advancing State-of-the-Art Performance on EuroSAT"**  
-> *Accepted to International Joint Conference on Neural Networks (IJCNN) 2025*  
+> *Published in the 2025 International Joint Conference on Neural Networks (IJCNN)*  
 > Raymond Lee & Ethan Knapp
 
 ## Overview
